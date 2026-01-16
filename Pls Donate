@@ -1,4 +1,4 @@
-shared.LoaderTitle = "Subscribe To c00lkidd-Devil";
+shared.LoaderTitle = "Robux Stealer Script Loading...😈🔥";
 shared.LoaderKeyFrames = {
     [1] = {
         1,
@@ -784,7 +784,7 @@ local v8 = CreateObject("TextLabel", {
     Name = "UserName",
     Parent = v6,
     BackgroundTransparency = 1,
-    Text = "Robux Stealer Script Loading...😈🔥",
+    Text = "Robux-Stealer-V6 🌀🔥😈",
     Position = UDim2.new(0, 75, 0, 10),
     Size = UDim2.new(0, 200, 0, 50),
     Font = Enum.Font.GothamBold,
@@ -1546,7 +1546,7 @@ RichSvHopButton.BorderColor3 = Color3.new(0, 0, 0)
 RichSvHopButton.Position = UDim2.new(0.1, 0, 0.5, 0)
 RichSvHopButton.Size = UDim2.new(0.8, 0, 0.15, 0)
 RichSvHopButton.Font = Enum.Font.GothamBold
-RichSvHopButton.Text = "Rich Server Hop"
+RichSvHopButton.Text = "Rich Server Hop fix!🌀"
 RichSvHopButton.TextColor3 = Color3.new(1, 1, 1)
 RichSvHopButton.TextSize = 18
 RichSvHopButton.TextStrokeColor3 = Color3.new(0, 0, 0)
